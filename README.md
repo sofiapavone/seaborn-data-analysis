@@ -24,14 +24,6 @@ The notebook includes:
 
 The dataset comes from the Seaborn built-in datasets collection.
 
-## Project Structure
-
-seaborn-data-analysis/
-│
-├── titanic_analysis.ipynb
-├── README.md
-└── requirements.txt
-
 ## Key Analysis Performed
 
 - Survival distribution
@@ -40,16 +32,6 @@ seaborn-data-analysis/
 - Age distribution analysis
 - Correlation heatmap
 - Missing values handling
-
-## How to Run
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-Run Jupyter Notebook:
-
-jupyter notebook
 
 ## Author
 
